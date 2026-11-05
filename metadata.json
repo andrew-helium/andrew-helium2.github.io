@@ -1,0 +1,6 @@
+{
+  "name": "VibeLab - Interactive Research & Vibecoded Showcase",
+  "description": "A research lab platform for showcasing, running, testing, and sharing interactive vibecoded prototypes built with Claude, Lovable, v0, Bolt, and more, ready for GitHub Pages hosting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
